@@ -1,2 +1,2 @@
 # ECE461ProjectCLI
-Hugo Day
+Hugo Day, BJ Pemberton
